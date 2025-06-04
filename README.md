@@ -6,6 +6,7 @@ Welcome! I'm Joshua Dreger, and this is my technical portfolio focusing on IT Se
 
 Topics:
 - Penetration Testing
+    - automated-nmap-scan
 - CTF Writeups (HackTheBox, TryHackMe)
 - Vulnerability Scanners
 - Malware Analysis & Reverse Engineering
