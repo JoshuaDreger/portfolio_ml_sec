@@ -1,0 +1,2 @@
+# Ignore all contents of any “data” directory:
+**/data/*
